@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+void PrintName(string name){
+	cout<<"Your Name is: "<<name<<endl;
+}
+int main(){
+	PrintName("Maram");
+	return 0;
+}
